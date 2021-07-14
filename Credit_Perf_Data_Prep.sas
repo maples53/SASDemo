@@ -76,5 +76,5 @@ run;
 	save casdata="writeoff_3_3Q" replace;
 	save casdata="writeoff_4_4Q" replace;
 quit;*/
-
+/*terminate cas session*/
 cas myCasSession4 terminate;
